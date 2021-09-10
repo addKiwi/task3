@@ -1,0 +1,14 @@
+C:\Users\plaer\source\repos\task3\task3\obj\Debug\netcoreapp3.1\task3.AssemblyInfoInputs.cache
+C:\Users\plaer\source\repos\task3\task3\obj\Debug\netcoreapp3.1\task3.AssemblyInfo.cs
+C:\Users\plaer\source\repos\task3\task3\bin\Debug\netcoreapp3.1\task3.exe
+C:\Users\plaer\source\repos\task3\task3\bin\Debug\netcoreapp3.1\task3.deps.json
+C:\Users\plaer\source\repos\task3\task3\bin\Debug\netcoreapp3.1\task3.runtimeconfig.json
+C:\Users\plaer\source\repos\task3\task3\bin\Debug\netcoreapp3.1\task3.runtimeconfig.dev.json
+C:\Users\plaer\source\repos\task3\task3\bin\Debug\netcoreapp3.1\task3.dll
+C:\Users\plaer\source\repos\task3\task3\bin\Debug\netcoreapp3.1\task3.pdb
+C:\Users\plaer\source\repos\task3\task3\obj\Debug\netcoreapp3.1\task3.dll
+C:\Users\plaer\source\repos\task3\task3\obj\Debug\netcoreapp3.1\task3.pdb
+C:\Users\plaer\source\repos\task3\task3\bin\Debug\netcoreapp3.1\ConsoleTableExt.dll
+C:\Users\plaer\source\repos\task3\task3\obj\Debug\netcoreapp3.1\task3.csproj.CopyComplete
+C:\Users\plaer\source\repos\task3\task3\bin\Debug\netcoreapp3.1\ConsoleTables.dll
+C:\Users\plaer\source\repos\task3\task3\obj\Debug\netcoreapp3.1\task3.csprojAssemblyReference.cache
